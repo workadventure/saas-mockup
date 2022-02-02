@@ -1,0 +1,25 @@
+{
+    "email": "test@test.com",
+    "userUuid": "3e828639-8ddc-415c-bd74-bc4d2448edee",
+    "tags": [
+        "test1",
+        "test2"
+    ],
+    "messages": [],
+    "visitCardUrl": "http://localhost/visit-card?membership=3e828639-8ddc-415c-bd74-bc4d2448edee",
+    "textures": [
+        {
+            "id": 14,
+            "level": 3,
+            "url": "https://backup-workadventure-db-prod.s3-eu-west-1.amazonaws.com/woka/czX4kaUZFRhjeb7vkZqszfy3pkBCOwDjeQkM3OFz.png",
+            "rights": "everybody"
+        },
+        {
+            "id": 15,
+            "level": 3,
+            "url": "https://backup-workadventure-db-prod.s3-eu-west-1.amazonaws.com/woka/Qt5Zyy36onPfsIdRcNWL2rghDNRbJ7sJixYBZURh.png",
+            "rights": "everybody"
+        }
+    ],
+    "userRoomToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhbGciOiJIUzI1NiIsImlzcyI6Imh0dHA6XC9cL2xvY2FsaG9zdCIsImF1ZCI6Imh0dHA6XC9cL2xvY2FsaG9zdCIsImlhdCI6MTY0MzgxOTA2MSwidWlkIjoiMzBkMmM4MDYtNDAzMC00Mjk5LWI2MzMtMGVmY2YwZmIwZGE3IiwidXNlciI6IjNlODI4NjM5LThkZGMtNDE1Yy1iZDc0LWJjNGQyNDQ4ZWRlZSIsInJvb20iOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODA4MFwvQFwvdGNtXC93b3JrYWR2ZW50dXJlXC90ZXN0dGFnIiwiZXhwIjoxNjQzOTkxODYxfQ.zhV972rDPF95Xo6nHW2JQRVXuX_5htc_2jVsSli0IlM"
+}
