@@ -1,0 +1,14 @@
+{
+            "roomSlug": "testtag",
+            "mapUrl": "https://gparant.github.io/medium-webinar/map.json",
+            "policy_type": 3,
+            "tags": [
+                "test1",
+                "test2"
+            ],
+            "group": "tcm/workadventure",
+            "textures": [],
+            "authenticationMandatory": false,
+            "iframeAuthentication": "https://pusher.workadventure.localhost/login-screen",
+            "contactPage": ""
+}
