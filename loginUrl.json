@@ -1,0 +1,20 @@
+{
+    "userUuid": "3e828639-8ddc-415c-bd74-bc4d2448edee",
+    "email": "test@test.com",
+    "roomUrl": "/@/tcm/workadventure/wa-village",
+    "mapUrlStart": "https://valdotr.github.io/wa-internal-map/map.json",
+    "textures": [
+        {
+            "id": 14,
+            "level": 3,
+            "url": "https://backup-workadventure-db-prod.s3-eu-west-1.amazonaws.com/woka/czX4kaUZFRhjeb7vkZqszfy3pkBCOwDjeQkM3OFz.png",
+            "rights": "everybody"
+        },
+        {
+            "id": 15,
+            "level": 3,
+            "url": "https://backup-workadventure-db-prod.s3-eu-west-1.amazonaws.com/woka/Qt5Zyy36onPfsIdRcNWL2rghDNRbJ7sJixYBZURh.png",
+            "rights": "everybody"
+        }
+    ]
+}
